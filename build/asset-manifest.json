@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/react-quick-start/build/static/css/main.99176b51.css",
-    "main.js": "/react-quick-start/build/static/js/main.bc5f1537.js",
+    "main.js": "/react-quick-start/build/static/js/main.518db19e.js",
     "index.html": "/react-quick-start/build/index.html",
     "main.99176b51.css.map": "/react-quick-start/build/static/css/main.99176b51.css.map",
-    "main.bc5f1537.js.map": "/react-quick-start/build/static/js/main.bc5f1537.js.map"
+    "main.518db19e.js.map": "/react-quick-start/build/static/js/main.518db19e.js.map"
   },
   "entrypoints": [
     "static/css/main.99176b51.css",
-    "static/js/main.bc5f1537.js"
+    "static/js/main.518db19e.js"
   ]
 }
