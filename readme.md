@@ -23,6 +23,8 @@
 
 # Пример React Приложения
 
+[Просмотр](https://iksergey.github.io/react-quick-start/build)
+
 Это простое React приложение, демонстрирующее основные принципы работы с компонентами и запросами к API. Приложение загружает данные с [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts) и отображает первые 5 постов в виде карточек с картинками.
 
 ## Установка
