@@ -1,6 +1,6 @@
 # Буткемп
 
-### Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=5749ef0badb40674&utm_source=github.com&utm_medium=react_quick_start&utm_campaign=narodny_course&utm_term=first) вы получаете приятную скидку
+### Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=51f2e70c7ce4b640&utm_source=github.com&utm_medium=react_quick_start&utm_campaign=narodny_course&utm_term=first) вы получаете приятную скидку
 
 ### О буткемпе
 
@@ -17,11 +17,13 @@
 
 Репозиторий представляет собой часть учебного курса по фулстек разработке, он охватывает технологии и языки программирования, такие как C#, JavaScript, Docker, SQL, React.JS, Git, HTML, CSS, Bootstrap, Markdown, LaTeX, основы математики и алгоритмов.
 
-Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=5749ef0badb40674&utm_source=github.com&utm_medium=react_quick_start&utm_campaign=narodny_course&utm_term=second) вы получаете приятную скидку
+Преобретая буткемп по [ЭТОЙ ССЫЛКЕ](https://stepik.org/a/197191/pay?promo=51f2e70c7ce4b640&utm_source=github.com&utm_medium=react_quick_start&utm_campaign=narodny_course&utm_term=second) вы получаете приятную скидку
 
 ---
 
 # Пример React Приложения
+
+[Просмотр](https://iksergey.github.io/react-quick-start/build)
 
 Это простое React приложение, демонстрирующее основные принципы работы с компонентами и запросами к API. Приложение загружает данные с [JSONPlaceholder](https://jsonplaceholder.typicode.com/posts) и отображает первые 5 постов в виде карточек с картинками.
 
