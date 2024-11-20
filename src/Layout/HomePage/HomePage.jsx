@@ -15,7 +15,7 @@ const HomePage = () => {
             .then(res => {
                 setLabels(res.data.slice(0, 5));
             });
-    });
+    }, []);
 
     return (
         <div className="container col-10">
